@@ -1,0 +1,17 @@
+torch
+transformers
+datasets
+accelerate
+fastapi
+uvicorn
+streamlit
+pydantic
+pytest
+httpx
+evaluate
+rouge_score
+nltk
+absl-py
+xxhash
+bert_score
+pypdf

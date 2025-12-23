@@ -1,0 +1,39 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+*.so
+.distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Models
+models/
+results/
+logs/
+data/
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
